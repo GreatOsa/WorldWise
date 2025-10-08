@@ -35,6 +35,30 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2027-05-10T11:11:11.111Z",
+      "notes": "City of lights ✨",
+      "position": {
+        "lat": 48.856613,
+        "lng": 2.352222
+      },
+      "id": 47382910
+    },
+    {
+      "cityName": "Rome",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2027-08-22T10:00:00.000Z",
+      "notes": "History everywhere!",
+      "position": {
+        "lat": 41.902782,
+        "lng": 12.496366
+      },
+      "id": 65302947
     }
   ]
 }
